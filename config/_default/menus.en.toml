@@ -1,0 +1,49 @@
+# config/_default/menus.en.toml
+
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 20
+
+[[main]]
+  name = "GitHub"
+  url = "https://github.com/monsdar"
+  weight = 30
+  [main.params]
+    icon = "github"
+    showName = false
+    target = "_blank"
+
+[[main]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/nils-brinkmann-93183677/"
+  weight = 40
+  [main.params]
+    icon = "linkedin"
+    showName = false
+    target = "_blank"
+
+[[main]]
+  name = "GitLab"
+  url = "https://gitlab.com/monsdar"
+  weight = 50
+  [main.params]
+    icon = "gitlab"
+    showName = false
+    target = "_blank"
+
+[[main]]
+  identifier = "search"
+  weight = 99
+  [main.params]
+    action = "search"
+    icon = "search"
+
+[[footer]]
+  name = "Impressum"
+  pageRef = "impressum"

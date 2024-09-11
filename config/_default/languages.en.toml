@@ -1,0 +1,14 @@
+# config/_default/languages.en.toml
+
+title = "Build🔁Deploy🔁Repeat"
+
+[params.author]
+name = "Nils Brinkmann"
+image = "img/avatar.png"
+headline = "Build all the things!"
+bio = "A little bit about me"
+links = [
+  { github = "https://github.com/monsdar" },
+  { linkedin = "https://www.linkedin.com/in/nils-brinkmann-93183677" },
+  { gitlab = "https://gitlab.com/monsdar" },
+]

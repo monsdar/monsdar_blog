@@ -1,0 +1,10 @@
+baseURL = 'https://nils.brink.men/'
+languageCode = 'en'
+title = 'Build🔁Deploy🔁Repeat'
+
+enableRobotsTXT = true
+paginate = 15
+summaryLength = 0
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

@@ -1,0 +1,1 @@
+Welcome to the Blog! This is where I keep my findings, perhaps there's something for you as well.
