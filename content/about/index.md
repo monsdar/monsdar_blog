@@ -10,7 +10,11 @@ cascade:
 ---
 
 {{< lead >}}
-This is me
+Nils Brinkmann, DevOps Engineer
 {{< /lead >}}
 
-Lorem Ipsum and all the stuff...
+I am a software dev turned DevOps engineer, working with technologies like Ansible, Docker, Kubernetes, Python, and GitLab CI. I know how to lead a team of engineers to build scalable products and deliver to the customer. Known for my problem-solving abilities and effective communication, I bridge the gap between engineering and the customer. I like to do the right thing, but I understand that it’s always a compromise between the gold-plated solution and delivering on time and within budget. I'm an advocate of Open Source and try to push OSS methodologies in my projects.
+
+I like to find new and interesting technologies and integrate them in my daily life. Monitoring my Smart Home with Grafana, hacking the Toniebox of my daughter, deploying useful services to help with organizing a family. Been there, done that - and a bit more.
+
+This is the newest iteration of me writing a regular blog. I started doing this many years ago, when blogger was the platform to go with. After some time in the Wordpress universe I'll now go the route of hosting the blog via GitHub and running Hugo via GitHub Actions. Let's see how this turns out.
