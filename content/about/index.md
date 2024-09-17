@@ -16,3 +16,5 @@ Nils Brinkmann, DevOps Engineer
 I am a software dev turned DevOps engineer, working with technologies like Ansible, Docker, Kubernetes, Python, and GitLab CI. I like to find new and interesting technologies and integrate them in my daily life. Monitoring my Smart Home with Grafana, hacking the Toniebox of my daughter, deploying useful services to help with organizing a family. Been there, done that - and a bit more.
 
 This is the newest iteration of me writing a regular blog. I started doing this many years ago, when blogger was the platform to go with. After some time in the Wordpress universe I'll now go the route of hosting the blog via GitHub and running Hugo via GitHub Actions. Let's see how this turns out.
+
+If you're interested in the origin story I recommend reading my [Hello World post]({{< ref "001-hello-world" >}}). You're more interested in me as a person? Take a look at my [{{< icon "linkedin" >}} LinkedIn profile](https://www.linkedin.com/in/nils-brinkmann-93183677/).
