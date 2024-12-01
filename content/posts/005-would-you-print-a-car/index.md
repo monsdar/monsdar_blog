@@ -1,6 +1,6 @@
 ---
 title: "Would you print a car?"
-date: 2024-11-29T12:00:00
+date: 2024-11-19T12:00:00
 draft: false
 description: "Getting started with 3D printing..."
 summary: "Getting started with 3D printing..."
