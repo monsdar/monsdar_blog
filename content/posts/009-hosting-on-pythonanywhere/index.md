@@ -1,6 +1,6 @@
 ---
 title: "Hosting on PythonAnywhere.com"
-date: 2025-05-03T12:00:00
+date: 2025-04-25T12:00:00
 draft: false
 description: "Deploy Python web apps fast, but manually"
 summary: "Deploy Python web apps fast, but manually"
