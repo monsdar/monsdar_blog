@@ -1,14 +1,19 @@
 # config/_default/menus.en.toml
 
 [[main]]
-  name = "Blog"
+  name = "[Blog]"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "About"
+  name = "[About]"
   pageRef = "about"
   weight = 20
+
+[[main]]
+  name = "[AI Transparency Statement]"
+  pageRef = "ai_content"
+  weight = 30
 
 [[main]]
   name = "GitHub"
