@@ -43,6 +43,15 @@
     target = "_blank"
 
 [[main]]
+  name = "rss"
+  url = "https://nils.brink.men/index.xml"
+  weight = 90
+  [main.params]
+    icon = "rss"
+    showName = false
+    target = "_blank"
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
