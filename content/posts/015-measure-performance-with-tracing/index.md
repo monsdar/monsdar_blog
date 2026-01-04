@@ -34,5 +34,3 @@ With this I could find a lot of optimizations:
 * Entire features that used many DB queries. This was happening in the "stats modal" that opens up when a user finished a Grid. Some of the stats were pretty interesting, but took way too much time to load. Removing them didn't change the user experience a lot, but makes loading the stats much faster.
 
 In the end it was easy to focus on the heavy performance hogs first and then continue working on smaller parts one after another. Simply removing the Top 5 issues already made the app feel like a totally different experience.
-
-
