@@ -7,11 +7,12 @@ summary: "Scheduling regular tasks is pretty easy with Railway Cronjobs"
 
 Most of the services I'm running on Railway have some sort of regular management tasks to be done. Earlier I used different approaches to solve this, but all had disadvantages:
 
-* **Local Tasks:** Run the task locally and sync the data up to the service via REST API
+**Local Tasks:** Run the task locally and sync the data up to the service via REST API
   * Does only work when I'm available to run the task on my computer
   * Needs to expose an extra API
   * Some tasks are hard to set up this way, for example updating data that is in the production DB but not available locally
-* **Integrated Tasks:** When the first user loads the page after a certain time, run the task as part of the page load
+
+**Integrated Tasks:** When the first user loads the page after a certain time, run the task as part of the page load
   * Slow loading times for one user
   * Timing conflicts - what if multiple users load the page while the task hasn't finished yet?
   * Convoluted code, as this needs to be included in the code that normally is used for loading the user pages
@@ -21,7 +22,7 @@ To solve this I found Railway Cronjobs. These are additional services that you a
 
 ![Overview of Cronjobs in Railway](cronjob_services.png)
 
-Here you can see that while the main "BibaTipp" and "Postgres" instances are running continuously, there are three more services that run on a schedule. The services are connected to the same production database, so they have all the needed data. Implementation-wise I added them as Django management commands, which makes it pretty easy to be integrated into the rest of the application, while the code is still handled separately to the actual app-related code.
+Here you can see that while the main `BibaTipp` and `Postgres` instances are running continuously, there are three more services that run on a schedule. The services are connected to the same production database, so they have all the needed data. Implementation-wise I added them as Django management commands, which makes it pretty easy to be integrated into the rest of the application, while the code is still handled separately to the actual app-related code.
 
 Here you can see that the service runs similar to the main service, including most of the variables. I only added a cron schedule and a custom start command:
 
