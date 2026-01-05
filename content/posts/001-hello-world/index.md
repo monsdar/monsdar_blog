@@ -2,7 +2,6 @@
 title: "Hello World!"
 date: 2024-09-17T20:00:00
 draft: false
-description: "First blog post"
 summary: "What is this? Where do I come from?"
 ---
 

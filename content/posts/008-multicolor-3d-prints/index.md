@@ -2,7 +2,6 @@
 title: "Multi-colored 3D prints with Sovol SV08"
 date: 2025-03-15T12:00:00
 draft: false
-description: "Configure OrcaSlicer to change filament during the print"
 summary: "Configure OrcaSlicer to change filament during the print"
 ---
 

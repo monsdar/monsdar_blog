@@ -2,7 +2,6 @@
 title: "Extract ICal from your teams DBB schedule"
 date: 2024-10-08T12:00:00
 draft: false
-description: "Using Python to scrape a website and generate an ICal for your Basketball team"
 summary: "Using Python to scrape a website and generate an ICal for your Basketball team"
 ---
 

@@ -2,7 +2,6 @@
 title: "Motivating young Ballers"
 date: 2025-07-17T12:00:00
 draft: false
-description: "Helping my team to get through the off-season slump"
 summary: "Helping my team to get through the off-season slump"
 ---
 

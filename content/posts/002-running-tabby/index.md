@@ -2,7 +2,6 @@
 title: "Tabby: Run your own local AI code completion"
 date: 2024-09-24T20:00:00
 draft: false
-description: "Use tabby to run your own code completion"
 summary: "Code completion is awesome, with Tabby you can run it locally and have everything under control."
 ---
 

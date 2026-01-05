@@ -2,7 +2,6 @@
 title: "VibeCoding with Cursor AI"
 date: 2025-05-03T12:00:00
 draft: false
-description: "Agentic AI is a Gamechanger"
 summary: "Agentic AI is a Gamechanger"
 ---
 

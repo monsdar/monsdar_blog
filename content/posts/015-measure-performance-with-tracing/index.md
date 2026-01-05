@@ -2,7 +2,6 @@
 title: "NBAGrid - Improving effectiveness and efficiency"
 date: 2026-01-02T12:00:00
 draft: false
-description: "Optimizing NBAGrid to increase performance and reduce compute ressources"
 summary: "Optimizing NBAGrid to increase performance and reduce compute ressources"
 ---
 

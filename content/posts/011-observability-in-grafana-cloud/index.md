@@ -2,7 +2,6 @@
 title: "Observability with Grafana Cloud"
 date: 2025-05-30T12:00:00
 draft: false
-description: "O11y O11y O11y"
 summary: "O11y O11y O11y"
 ---
 

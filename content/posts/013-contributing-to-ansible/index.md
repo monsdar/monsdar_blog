@@ -2,7 +2,6 @@
 title: "Contributing to Ansible"
 date: 2025-06-20T12:00:00
 draft: false
-description: "Improving performance for complex deployments"
 summary: "Improving performance for complex deployments"
 ---
 

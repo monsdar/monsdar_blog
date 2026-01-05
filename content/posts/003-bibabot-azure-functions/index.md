@@ -2,7 +2,6 @@
 title: "BibaBot: Run a Telegram bot in Azure Functions"
 date: 2024-10-05T12:00:00
 draft: false
-description: "BibaBot is a Telegram Bot that posts information about your ESPN Fantasy NBA league."
 summary: "BibaBot is a Telegram Bot that posts information about your ESPN Fantasy NBA league."
 ---
 

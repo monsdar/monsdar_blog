@@ -2,7 +2,6 @@
 title: "Sovol SV08: Improve Z-Calibration Routine"
 date: 2024-11-30T12:00:00
 draft: false
-description: "The default Z-offset calibration isn't perfect, but it's easy to tweak it. Here's how to do it."
 summary: "The default Z-offset calibration isn't perfect, but it's easy to tweak it. Here's how to do it."
 ---
 

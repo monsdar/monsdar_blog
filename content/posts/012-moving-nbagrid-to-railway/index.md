@@ -2,7 +2,6 @@
 title: "Moving NBAGrid to Railway"
 date: 2025-06-07T12:00:00
 draft: false
-description: "Full automation powered by magic"
 summary: "Full automation powered by magic"
 ---
 

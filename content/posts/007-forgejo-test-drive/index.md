@@ -2,7 +2,6 @@
 title: "Forgejo test drive"
 date: 2024-12-02T12:00:00
 draft: false
-description: "Lightweight Git hosting"
 summary: "Lightweight Git hosting without (many) compromises"
 ---
 
